@@ -1,6 +1,4 @@
 
-# Cludo Assingment - Ewerton Weishaupt Ruiz
-
 ## Setup
 
 To get up and running, do the following (requires Python 3):
